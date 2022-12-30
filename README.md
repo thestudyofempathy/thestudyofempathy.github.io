@@ -37,7 +37,7 @@
                 </ul>
                 <section class="social-links">
                     <a href="mailto:yaning.wu@kellogg.ox.ac.uk"><img src="imgs/mail.png" lat="email link"></a>
-                    <a href="https://www.linkedin.com/in/yaning-wu/" target="_blank"><img src="imgs/linkedin.png"
+                    <a href="https://www.linkedin.com/in/yaning-wu/" target="_blank"><img src="linkedin_logo.png"
                             lat="linkedin link"></a>
                     <a id="twitter" href="https://twitter.com/nerdfighterwu" target="_blank"><img src="2021 Twitter logo - blue.png"
                             alt="twitter link"></a>
