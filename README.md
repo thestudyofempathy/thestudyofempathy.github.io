@@ -13,22 +13,7 @@
     <!-- Main page -->
     <div class="container">
         <h2>About me</h2>
-        <p>My name is Helena (Helli) Robertson. I am currently undertaking Cardiff University's MSc in Computational
-            and Data Journalism, with the hope of pursuing a career in data journalism when I graduate this year.
-        </p>
-
-        <p>I graduated last year from UCL with a BA in Geography with Quantitative Methods, where I studied human
-            geography alongside modules in data analysis and visualisation, and social science research methods.</p>
-
-        <p>In the summer before my final year at UCL, I spent eight weeks as an intern at the Financial Times,
-            producing daily graphics, as well as researching and creating chart-led pieces.</p>
-        <p>In November 2018, I worked overnight at Sky News assisting with the US Midterms programme. Along with
-            three fellow students, I was sourcing results as they were called by US broadcasters to feed into
-            projection models for the House and Senate, and to report live on the Sky TV programme.</p>
-        <p>In my final undergraduate year, I was part of the Design Team for Pi Media, a multimedia platform at UCL.
-            I assisted with the website and logo redesign, and worked with the magazine editors to produce
-            commissioned graphics for the quarterly print version, as well as for the promotion of articles and
-            events across social media.</p>
+        <p>My name is Yaning ...</p>
 
 
 
